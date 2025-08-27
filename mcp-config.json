@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "home-depot": {
+      "command": "node",
+      "args": ["dist/index.js"],
+      "cwd": "/Users/makaminski1337/Developer/depot-mcp"
+    }
+  }
+}
